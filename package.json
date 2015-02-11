@@ -44,7 +44,7 @@
         "passport": "~0.2.0",
         "passport-slack": "0.0.1",
         "passport-stormpath": "^0.2.3",
-        "q": "~1.1.2",
+        "q": "~1.1.1",
         "redis": "^0.12.1",
         "request": "^2.47.0",
         "requirejs": "~2.1.15",
