@@ -115,7 +115,6 @@
         "supertest-as-promised": "~1.0.0"
     },
     "scripts": {
-        //"preinstall": "npm install vendor/mocha-teamcity-reporter/ vendor/grunt-mocha-webdriver/ vendor/node-mailgun/",
         "lint": "jshint ."
     },
     "precommit": [
